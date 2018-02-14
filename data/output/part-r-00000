@@ -1,0 +1,402 @@
+!=	NumPair.java
+"	Main.java | Main.java | Main.java
+");	Main.java | Reduce.java
+"AvgWorkHoursParWeekGroupedByMaritalStatus");	Main.java
+"\t"	NumPair.java
+&&	NumPair.java
+(!job.waitForCompletion(true))	Main.java
+(Exception	Map.java
+(FileSplit)	Map.java
+(NumPair	Reduce.java | Combine.java
+(NumPair)	NumPair.java
+(Text	Reduce.java | Reduce.java | Reduce.java
+(obj	NumPair.java
+(tokenizer.hasMoreTokens())	Map.java
++	NumPair.java | NumPair.java | NumPair.java
++=	Combine.java | Combine.java | Reduce.java | Reduce.java
+-	User.java
+//	User.java | User.java | User.java | Reduce.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Reduce.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Main.java | Main.java | Map.java | Reduce.java | Reduce.java | Map.java
+0	Main.java | NumPair.java | Main.java | Main.java | Main.java
+0.0;	Reduce.java | Combine.java
+0;	Combine.java | Reduce.java
+1));	Map.java
+1;	Main.java | Main.java | Main.java | Main.java
+3;	Map.java | Reduce.java
+:	Reduce.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Main.java | NumPair.java | Main.java | Combine.java
+<=	Reduce.java | Map.java
+=	Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Combine.java | Combine.java | Reduce.java | Map.java | Map.java | Map.java | Map.java | User.java | User.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Main.java | Map.java | Map.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Map.java | Map.java | Main.java | Main.java | Main.java | Main.java
+=>	User.java
+>	Map.java | Map.java | Reduce.java | Reduce.java
+?	Main.java | Main.java | Main.java | NumPair.java | Main.java
+@Override	Main.java | Main.java | User.java | Main.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Main.java | Map.java
+Access	Map.java
+Combine	Combine.java
+Comparable<User>	User.java
+Configuration	Main.java
+Configuration();	Main.java
+Configured	Main.java | Main.java | Main.java | Main.java
+Context	Combine.java | Map.java | Reduce.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Reduce.java | Map.java
+Double	Reduce.java | Reduce.java | Combine.java | Map.java
+Double.parseDouble(data[12]);	Map.java
+DoubleWritable	NumPair.java | NumPair.java
+DoubleWritable(),	NumPair.java
+DoubleWritable(avg));	Reduce.java
+DoubleWritable(first),	NumPair.java
+DoubleWritable>	Reduce.java
+Exception	Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java
+FileInputFormat.addInputPath(job,	Main.java | Main.java | Main.java | Main.java
+FileInputFormat.setInputDirRecursive(job,	Main.java
+FileInputFormat.setInputPaths(job,	Main.java
+FileOutputFormat.setOutputPath(job,	Main.java | Main.java | Main.java | Main.java | Main.java
+FileSplit	Map.java
+IOException	NumPair.java | NumPair.java
+IOException,	Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Combine.java | Reduce.java | Map.java | Reduce.java | Map.java | Reduce.java
+IntWritable	NumPair.java | NumPair.java | NumPair.java | NumPair.java
+IntWritable());	NumPair.java
+IntWritable(second));	NumPair.java
+Integer	NumPair.java | Combine.java | Map.java | Reduce.java
+Integer.parseInt(data[1]);	Map.java | Reduce.java
+InterruptedException	Reduce.java | Reduce.java | Map.java | Reduce.java | Map.java | Combine.java | Reduce.java | Map.java | Map.java | Reduce.java | Map.java | Map.java
+Iterable<NullWritable>	Reduce.java
+Iterable<NumPair>	Combine.java | Reduce.java
+Iterable<Text>	Reduce.java | Reduce.java | Reduce.java
+Job	Main.java | Main.java | Main.java | Main.java | Main.java
+Job.getInstance(conf,	Main.java
+Job.getInstance(getConf());	Main.java | Main.java | Main.java | Main.java
+MApReduce	Main.java
+Main	Main.java | Main.java | Main.java | Main.java | Main.java
+Main(),	Main.java | Main.java | Main.java | Main.java
+Map	Map.java | Map.java | Map.java | Map.java | Map.java
+Mapper	Map.java
+Mapper<LongWritable,	Map.java | Map.java | Map.java | Map.java | Map.java
+N	Reduce.java | Reduce.java | Map.java | Map.java
+N)	Map.java | Reduce.java
+NullWritable	Reduce.java
+NullWritable,	Reduce.java | Map.java | Reduce.java | Reduce.java | Map.java | Map.java
+NullWritable.get());	Reduce.java | Map.java
+NullWritable>	Map.java | Reduce.java
+NumPair	NumPair.java | NumPair.java | NumPair.java
+NumPair()	NumPair.java
+NumPair(Double	NumPair.java
+NumPair(DoubleWritable	NumPair.java
+NumPair(hrsPerWeek,	Map.java
+NumPair(sum,	Combine.java
+NumPair)	NumPair.java
+NumPair,	Reduce.java | Combine.java
+NumPair>	Combine.java | Map.java
+Path	Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java
+Path("data/input"));	Main.java
+Path("data/input/orders.txt");	Main.java
+Path("data/input/searchTerms.txt");	Main.java
+Path("data/input/socialNetwork.txt");	Main.java
+Path("data/output"));	Main.java
+Path("data/output");	Main.java | Main.java | Main.java | Main.java
+Path("src");	Main.java
+PriorityQueue<>();	Reduce.java | Map.java
+PriorityQueue<User>	Map.java | Reduce.java
+Reduce	Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java
+Reducer<NullWritable,	Reduce.java | Reduce.java
+Reducer<Text,	Reduce.java | Combine.java | Reduce.java | Reduce.java
+String	Map.java | Reduce.java | Map.java | Map.java | NumPair.java | Map.java | Map.java | Map.java | Map.java | Map.java
+StringBuilder	Reduce.java
+StringBuilder();	Reduce.java
+StringTokenizer	Map.java
+StringTokenizer(line);	Map.java
+String[]	Map.java | Map.java | Reduce.java | Map.java | Map.java
+System.exit(exitCode);	Main.java | Main.java | Main.java | Main.java
+TODO:	Map.java
+Tab	Main.java
+Text	Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | User.java | User.java | User.java
+Text();	Map.java
+Text(data[1]),	Map.java
+Text(filenameStr);	Map.java
+Text(ivalue)));	Map.java
+Text(maritalStatus),	Map.java
+Text(stringBuilder.toString()));	Reduce.java
+Text(val)));	Reduce.java
+Text,	Reduce.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Combine.java | Map.java | Reduce.java | Reduce.java | Map.java | Map.java | Reduce.java | Map.java | Map.java
+Text>	Map.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java
+Text>.Context	Map.java
+Tool	Main.java | Main.java | Main.java | Main.java
+ToolRunner.run(new	Main.java | Main.java | Main.java | Main.java
+Two	NumPair.java
+URL	Map.java
+User	Map.java | Reduce.java | User.java
+User(followers,	Reduce.java | Map.java
+User(int	User.java
+WritableComparable<NumPair>	NumPair.java
+_key,	Reduce.java | Combine.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java
+a	NumPair.java
+all	Main.java
+an	Map.java | Map.java
+analogus	Map.java
+and	NumPair.java
+are	NumPair.java
+arg0)	NumPair.java | NumPair.java | Main.java | Main.java | Main.java | Main.java
+args)	Main.java | Main.java | Main.java | Main.java | Main.java
+args);	Main.java | Main.java | Main.java | Main.java
+ascending	User.java
+associated	Map.java
+avg	Reduce.java
+be	Map.java | User.java
+books	Map.java
+boolean	NumPair.java
+bucket	NumPair.java
+by	Map.java
+catch	Map.java
+class	Map.java | Map.java | Map.java | Main.java | Combine.java | Main.java | Reduce.java | Map.java | Reduce.java | Main.java | Reduce.java | NumPair.java | User.java | Reduce.java | Map.java | Main.java | Reduce.java | Main.java
+cleanup(Mapper<LongWritable,	Map.java
+cmp	NumPair.java | NumPair.java | NumPair.java
+compareTo(NumPair	NumPair.java
+compareTo(User	User.java
+compares	NumPair.java
+conf	Main.java
+configuration	Main.java
+constructor	User.java
+constructors	NumPair.java
+context)	Map.java | Map.java | Map.java | Combine.java | Reduce.java | Reduce.java | Map.java | Reduce.java | Map.java | Map.java | Reduce.java | Reduce.java
+context.getInputSplit();	Map.java
+context.write(NullWritable.get(),	Map.java | Reduce.java | Map.java
+context.write(_key,	Reduce.java | Reduce.java | Reduce.java | Combine.java | Reduce.java
+context.write(new	Map.java | Map.java
+context.write(word,	Map.java
+count	Reduce.java | Reduce.java | Combine.java | Combine.java
+count));	Combine.java
+currentSplit	Map.java
+currentSplit.getPath().getName();	Map.java
+data	Map.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Map.java
+data[5];	Map.java
+de-serialization	NumPair.java | NumPair.java
+default	Main.java
+delegate	NumPair.java | NumPair.java
+directories	Main.java
+directory	Main.java
+e)	Map.java
+else	NumPair.java
+equal	NumPair.java
+equals(Object	NumPair.java
+exception	Map.java
+exitCode	Main.java | Main.java | Main.java | Main.java
+extends	Main.java | Main.java | Main.java | Map.java | Combine.java | Map.java | Reduce.java | Map.java | Reduce.java | Reduce.java | Main.java | Map.java | Reduce.java | Map.java | Reduce.java
+extract	Map.java
+false;	NumPair.java
+fields	NumPair.java
+file	Main.java | Map.java
+filename	Map.java
+filename);	Map.java
+filenameStr	Map.java
+filter	Map.java
+filter;	Map.java | Main.java | Reduce.java
+filterdistinct;	Map.java | Main.java | Reduce.java
+final	Reduce.java | Reduce.java
+first	NumPair.java
+first,	NumPair.java | NumPair.java | NumPair.java
+first.compareTo(o.first);	NumPair.java
+first.equals(o.first)	NumPair.java
+first.hashCode()*163	NumPair.java
+first.readFields(arg0);	NumPair.java
+first.write(arg0);	NumPair.java
+first;	NumPair.java | NumPair.java | NumPair.java
+flag	Main.java
+followers	Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java
+followers,	User.java
+followers;	User.java | User.java | User.java
+followersPriorityQueue	Map.java | Reduce.java
+followersPriorityQueue.add(new	Reduce.java | Map.java
+followersPriorityQueue.peek();	Map.java | Reduce.java
+followersPriorityQueue.poll().getRecord());	Reduce.java | Map.java
+followersPriorityQueue.poll();	Map.java
+followersPriorityQueue.remove(user);	Reduce.java
+for	Reduce.java | Reduce.java | Combine.java | Reduce.java | Reduce.java
+from	Map.java
+get	Map.java
+getFirst()	NumPair.java
+getFollowers()	User.java
+getRecord()	User.java
+getSecond()	NumPair.java
+getters	NumPair.java | User.java
+handle	Map.java
+hash	NumPair.java
+hashCode()	NumPair.java
+hrsPerWeek	Map.java
+if	Main.java | NumPair.java
+if(data[2].equalsIgnoreCase("Books"))	Map.java
+if(followersPriorityQueue.size()	Reduce.java | Reduce.java | Map.java | Map.java
+if(values.iterator().hasNext())	Reduce.java
+ikey,	Map.java | Map.java | Map.java | Map.java | Map.java
+implements	NumPair.java | Main.java | Main.java | Main.java | User.java | Main.java
+import	Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Combine.java | Combine.java | Combine.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | User.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java | Map.java | Map.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java
+in	Main.java | Main.java | NumPair.java | Reduce.java | Map.java | User.java
+indicates	Main.java
+individual	Map.java | NumPair.java | NumPair.java
+input	Main.java | Map.java
+inputFilePath	Main.java | Main.java | Main.java | Main.java
+inputFilePath);	Main.java | Main.java | Main.java | Main.java
+inputsplit	Map.java
+instanceof	NumPair.java
+instead	Main.java
+int	Main.java | Main.java | Main.java | Main.java | User.java | User.java | User.java | NumPair.java | NumPair.java | NumPair.java | Map.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Main.java
+intermediate	Map.java | Map.java
+invertedindex;	Main.java | Map.java | Reduce.java
+is	Map.java
+ivalue);	Map.java
+ivalue,	Map.java | Map.java | Map.java | Map.java | Map.java
+ivalue.toString();	Map.java | Map.java | Map.java | Map.java | Map.java
+java.io.DataInput;	NumPair.java
+java.io.DataOutput;	NumPair.java
+java.io.IOException;	NumPair.java | Map.java | Map.java | Combine.java | Reduce.java | Map.java | Reduce.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java
+java.util.PriorityQueue;	Reduce.java | Map.java
+java.util.StringTokenizer;	Map.java
+job	Main.java | Main.java | Main.java | Main.java | Main.java | Main.java
+job.getConfiguration().set("mapreduce.output.textoutpitformat.seperator",	Main.java
+job.setCombinerClass(Combine.class);	Main.java
+job.setCombinerClass(Reduce.class);	Main.java
+job.setJarByClass(Main.class);	Main.java | Main.java | Main.java | Main.java
+job.setJarByClass(summaries.Main.class);	Main.java
+job.setJobName("filter");	Main.java
+job.setJobName("filterdistinct");	Main.java
+job.setJobName("invertedindex");	Main.java
+job.setJobName("topN");	Main.java
+job.setMapOutputValueClass(NumPair.class);	Main.java
+job.setMapperClass(Map.class);	Main.java | Main.java | Main.java | Main.java | Main.java
+job.setOutputKeyClass(NullWritable.class);	Main.java | Main.java
+job.setOutputKeyClass(Text.class);	Main.java | Main.java | Main.java
+job.setOutputValueClass(DoubleWritable.class);	Main.java
+job.setOutputValueClass(NullWritable.class);	Main.java
+job.setOutputValueClass(Text.class);	Main.java | Main.java | Main.java
+job.setReducerClass(Reduce.class);	Main.java | Main.java | Main.java | Main.java | Main.java
+job.waitForCompletion(true)	Main.java | Main.java | Main.java | Main.java
+key	Map.java
+least	Reduce.java | Map.java
+line	Map.java | Map.java | Map.java | Map.java | Reduce.java | Map.java
+line.split(",");	Map.java
+line.split("\t");	Map.java | Map.java | Reduce.java | Map.java
+looks	Main.java
+main(String[]	Main.java | Main.java | Main.java | Main.java | Main.java
+map	NumPair.java
+map(LongWritable	Map.java | Map.java | Map.java | Map.java | Map.java
+mapper	Map.java
+maritalStatus	Map.java
+members	NumPair.java
+name	Map.java
+new	Map.java | Map.java | Map.java | NumPair.java | NumPair.java | Map.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Combine.java | Map.java | Map.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java
+node	Map.java
+o	NumPair.java | NumPair.java
+o)	NumPair.java | User.java
+o.followers;	User.java
+obj)	NumPair.java
+obj;	NumPair.java
+objects	NumPair.java
+of	Map.java | Main.java
+on	Map.java
+one	Map.java
+only	Map.java
+order	User.java
+org.apache.hadoop.conf.Configuration;	Main.java
+org.apache.hadoop.conf.Configured;	Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.fs.Path;	Main.java | Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.io.DoubleWritable;	Main.java | Map.java | Reduce.java | NumPair.java
+org.apache.hadoop.io.IntWritable;	NumPair.java
+org.apache.hadoop.io.LongWritable;	Map.java | Map.java | Map.java | Map.java | Map.java
+org.apache.hadoop.io.NullWritable;	Map.java | Map.java | Main.java | Main.java | Reduce.java | Main.java | Map.java | Reduce.java | Reduce.java
+org.apache.hadoop.io.Text;	Reduce.java | Reduce.java | Map.java | User.java | Main.java | Map.java | Reduce.java | Main.java | Map.java | Main.java | Reduce.java | Main.java | Combine.java | Main.java | Map.java | Reduce.java | Map.java
+org.apache.hadoop.io.WritableComparable;	NumPair.java
+org.apache.hadoop.mapreduce.Job;	Main.java | Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.mapreduce.Mapper;	Map.java | Map.java | Map.java | Map.java | Map.java
+org.apache.hadoop.mapreduce.Reducer;	Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Combine.java
+org.apache.hadoop.mapreduce.lib.input.FileInputFormat;	Main.java | Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.mapreduce.lib.input.FileSplit;	Map.java
+org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;	Main.java | Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.util.Tool;	Main.java | Main.java | Main.java | Main.java
+org.apache.hadoop.util.ToolRunner;	Main.java | Main.java | Main.java | Main.java
+our	Map.java | Reduce.java
+output	Main.java
+outputFilePath	Main.java | Main.java | Main.java | Main.java
+outputFilePath);	Main.java | Main.java | Main.java | Main.java
+package	Main.java | Main.java | Main.java | Combine.java | Map.java | Map.java | Reduce.java | User.java | Map.java | NumPair.java | Reduce.java | Main.java | Reduce.java | Reduce.java | Map.java | Map.java | Reduce.java | Main.java
+present	Map.java
+private	NumPair.java | NumPair.java | NumPair.java | NumPair.java | User.java | User.java | Reduce.java | Reduce.java | Map.java | Map.java
+process	Reduce.java | Reduce.java | Reduce.java
+processed	Map.java
+protected	Map.java
+public	Map.java | Map.java | Reduce.java | Reduce.java | Map.java | Map.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Map.java | Map.java | Combine.java | Combine.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Reduce.java | Reduce.java | Main.java | Main.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Reduce.java | Reduce.java | User.java | User.java | User.java | User.java | User.java | Map.java | Map.java
+readFields(DataInput	NumPair.java
+record)	User.java
+record;	User.java | User.java | User.java
+records	Map.java
+recuresively	Main.java
+reduce(NullWritable	Reduce.java
+reduce(Text	Reduce.java | Combine.java | Reduce.java | Reduce.java
+reduce(final	Reduce.java
+represents	Map.java
+return	User.java | User.java | User.java | Main.java | Main.java | Main.java | Main.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java
+return;	Main.java
+run(String[]	Main.java | Main.java | Main.java | Main.java
+same	NumPair.java
+second)	NumPair.java | NumPair.java | NumPair.java
+second);	NumPair.java
+second.compareTo(o.second);	NumPair.java
+second.equals(o.second);	NumPair.java
+second.hashCode();	NumPair.java
+second.readFields(arg0);	NumPair.java
+second.write(arg0);	NumPair.java
+second;	NumPair.java | NumPair.java | NumPair.java | NumPair.java
+serialization	NumPair.java | NumPair.java
+set(DoubleWritable	NumPair.java
+set(first,	NumPair.java
+set(new	NumPair.java | NumPair.java
+setter	NumPair.java
+should	NumPair.java
+sort	User.java
+static	Main.java | Map.java | Main.java | Reduce.java | Main.java | Main.java | Main.java
+stringBuilder	Reduce.java
+stringBuilder.append("	Reduce.java
+stringBuilder.append(val.toString());	Reduce.java
+sub	Main.java
+sum	Reduce.java | Reduce.java | Combine.java | Combine.java
+sum/count;	Reduce.java
+summaries;	Reduce.java | NumPair.java | Map.java | Main.java | Combine.java
+that	Main.java | Map.java | NumPair.java
+the	NumPair.java | Map.java | Map.java | Map.java | Map.java | Main.java | Main.java | Map.java | Reduce.java
+their	NumPair.java | NumPair.java
+this	NumPair.java
+this.first	NumPair.java
+this.followers	User.java | User.java
+this.record	User.java
+this.second	NumPair.java
+those	Map.java
+three	Reduce.java | Map.java
+through	Main.java
+throws	Main.java | Main.java | Map.java | Map.java | Reduce.java | Reduce.java | Main.java | Main.java | Combine.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Main.java | Reduce.java | Main.java | Main.java | NumPair.java | NumPair.java | Reduce.java | Main.java | Main.java
+to	Map.java | Map.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java
+toString()	NumPair.java
+tokenizer	Map.java
+top	Map.java | Reduce.java
+topn;	Reduce.java | User.java | Map.java | Main.java
+true);	Main.java
+try	Map.java
+used	Main.java
+user	Reduce.java | Reduce.java | Map.java | Map.java
+user.getFollowers())	Map.java | Reduce.java
+val	Reduce.java | Reduce.java | Combine.java | Reduce.java | Reduce.java
+val);	Reduce.java
+val.getFirst().get();	Reduce.java | Combine.java
+val.getSecond().get();	Combine.java | Reduce.java
+val.toString();	Reduce.java
+value	Map.java | Map.java
+values	Reduce.java | Reduce.java | Reduce.java
+values)	Reduce.java | Reduce.java | Reduce.java | Reduce.java | Combine.java
+values,	Combine.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java
+void	Reduce.java | Reduce.java | Combine.java | Map.java | Main.java | Map.java | Map.java | Main.java | Reduce.java | Main.java | Map.java | Reduce.java | Map.java | Map.java | Main.java | NumPair.java | NumPair.java | NumPair.java | Reduce.java | Main.java
+while	Map.java
+while(!followersPriorityQueue.isEmpty())	Reduce.java | Map.java
+with	Map.java | Reduce.java | Map.java
+word	Map.java
+word.set(tokenizer.nextToken());	Map.java
+would	User.java
+write(DataOutput	NumPair.java
+{	NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Map.java | Map.java | Map.java | Main.java | Main.java | Main.java | Combine.java | Combine.java | Combine.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Main.java | Main.java | Main.java | Main.java | Main.java | Main.java | Map.java | Map.java | Map.java | Map.java | Main.java | Main.java | Main.java | User.java | User.java | User.java | User.java | User.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java
+|	Main.java | Reduce.java
+||	Reduce.java | Map.java
+|||	Main.java
+}	Main.java | Main.java | Main.java | Combine.java | Combine.java | Combine.java | Map.java | Map.java | Map.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | NumPair.java | Reduce.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java | User.java | User.java | User.java | User.java | User.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Map.java | Map.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Main.java | Main.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Reduce.java | Main.java | Main.java | Main.java | Reduce.java | Reduce.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java | Map.java
